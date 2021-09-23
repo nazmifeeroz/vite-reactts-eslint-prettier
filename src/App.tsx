@@ -9,8 +9,8 @@ function App() {
     <div className="App" data-testid="app-page">
       <header className="App-header">
         <p className="header">
-          🚀 Vite + React + Typescript 🤘 & <br />
-          Eslint 🔥+ Prettier
+          🚀 Vite + React + Typescript + React Testing Library 🤘 <br />& Eslint
+          🔥+ Prettier
         </p>
 
         <div className="body">
