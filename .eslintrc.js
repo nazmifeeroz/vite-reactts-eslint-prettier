@@ -23,7 +23,6 @@ module.exports = {
     'plugin:react/recommended',
     'plugin:jsx-a11y/recommended',
     'plugin:prettier/recommended', // Make sure this is always the last element in the array.
-    'plugin:jest/recommended',
   ],
   plugins: ['simple-import-sort', 'prettier'],
   rules: {
